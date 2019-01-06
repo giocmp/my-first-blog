@@ -25,7 +25,7 @@ SECRET_KEY = 'sbgpcl+(00()@$ypn_)c#63glhh22akrs2i^mdl=v^hhhlys)d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','gioc.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','.pythonanywhere.com']
 
 
 # Application definition
